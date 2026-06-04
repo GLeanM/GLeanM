@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me: My name is Michael Glean! I am a computer sceinece student at Western University. I am passionate about Software Engineering, AI, and everything tech 💻
 
 
 # 💻 Tech Stack:
